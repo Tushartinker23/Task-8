@@ -6,8 +6,8 @@ This project presents an analysis of sales and profit data using a Power BI dash
 ## 📁 Files Included
 
 - **task_8_insights.pptx**: A detailed PowerPoint presentation containing analysis, insights, and actionable recommendations based on the Power BI dashboard.
-- **task8.pbix
-- **Global_Superstore2.csv
+- task8.pbix
+- Global_Superstore2.csv
 
 ## 📊 Dashboard Highlights
 
