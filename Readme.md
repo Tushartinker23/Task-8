@@ -5,7 +5,9 @@ This project presents an analysis of sales and profit data using a Power BI dash
 
 ## 📁 Files Included
 
-- **Sales_Profit_Dashboard_Insights.pptx**: A detailed PowerPoint presentation containing analysis, insights, and actionable recommendations based on the Power BI dashboard.
+- **task_8_insights.pptx**: A detailed PowerPoint presentation containing analysis, insights, and actionable recommendations based on the Power BI dashboard.
+- **task8.pbix
+- **Global_Superstore2.csv
 
 ## 📊 Dashboard Highlights
 
@@ -29,13 +31,4 @@ This project presents an analysis of sales and profit data using a Power BI dash
 - **Office Supplies**: $3.79M (29.94%)
 - High demand for technology; bundling opportunities exist across categories.
 
-## ✅ Recommendations
-- Investigate the causes of the declining sales trend.
-- Expand marketing efforts in low-performing regions.
-- Focus on high-margin items in the Technology category.
-- Optimize cost structures to improve overall profit margins.
-- Leverage segmentation for deeper analysis.
-
-## 👨‍💻 Author
-Prepared by: **Tushar**
 
